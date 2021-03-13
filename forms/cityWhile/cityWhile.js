@@ -1,4 +1,4 @@
-/*
+
 let doneWithCities = false
 let cities = []
 let yesNo = ""
@@ -19,4 +19,3 @@ while (cities.length !== count){
   count++
 }
 
-*/
